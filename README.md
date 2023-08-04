@@ -1,2 +1,2 @@
 # hello-world
-Repositorio atividade cubos academy
+Repositorio de atividades Cubos Academy 
